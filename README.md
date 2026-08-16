@@ -24,5 +24,5 @@ MS Business Analytics student @UTSA | Aspiring Data/Business Analyst | Turning d
 
 ## Featured Projects
 
-- 🔹 [Churn Analysis](https://github.com/alexM200310/churn-analysis) - SQL-driven customer churn analysis with staging, cleaning, and reporting views, visualized in Power BI
-- 🔹 [Customer Shopping Trends Analysis](https://github.com/alexM200310/customer-shopping-trends-analysis) - Exploratory data analysis and dashboarding on customer shopping behavior
+- 🔹 [Telecom Customer Churn Analysis](https://github.com/alexM200310/telecom-customer-churn-analysis) - SQL-driven customer churn analysis with staging, cleaning, and reporting views, visualized in Power BI
+- 🔹 [Retail Revenue Quality & Customer Value Analysis](https://github.com/alexM200310/retail-revenue-quality-customer-value-analysis) - Exploratory data analysis and dashboarding on customer shopping behavior

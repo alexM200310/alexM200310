@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-MS Business Analytics student @UTSA | Aspiring Data/Business Analyst | Turning data into decisions
+MS Business Analytics student @UTSA | Aspiring Data/Business Analyst
 
 ## About Me
 - 🎓 Pursuing a Master's in Business Analytics at UTSA

@@ -26,3 +26,5 @@ MS Business Analytics student @UTSA | Aspiring Data/Business Analyst
 
 - 🔹 [Telecom Customer Churn Analysis](https://github.com/alexM200310/telecom-customer-churn-analysis) - SQL-driven customer churn analysis with staging, cleaning, and reporting views, visualized in Power BI
 - 🔹 [Retail Revenue Quality & Customer Value Analysis](https://github.com/alexM200310/retail-revenue-quality-customer-value-analysis) - Exploratory data analysis and dashboarding on customer shopping behavior
+- 🔹 [Sales Performance Dashboard Tableau](https://github.com/alexM200310/sales-performance-dashboard-tableau) - Interactive KPI and trend analysis built with Tableau
+ 
